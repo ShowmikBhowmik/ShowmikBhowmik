@@ -1,6 +1,6 @@
 # Welcome to My World! 🌟
 
-## I'm [Showmik Bhowmik], where Product Management 🚀 meets Software Engineering 💻!
+## I'm Showmik Bhowmik, where Product Management 🚀 meets Software Engineering 💻!
 
 
 Diving deep into the synergy of **Product Management** and **Software Engineering** to craft products that delight users and stand out in the digital landscape. I'm all about using technology to solve real-world problems with an eye on the end-user experience and market fit.
